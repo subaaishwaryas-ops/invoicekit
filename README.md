@@ -85,7 +85,7 @@ invoicekit/
 
 ## 🙋‍♀️ Author
 
-**Suba Aishwarya S**  **Venkat sridhar B**
+**Suba Aishwarya S** & **Venkat sridhar B**
 ECE Student · Full Stack Developer · Chennai Institute of Technology  
 [GitHub](https://github.com/subaaishwaryas-ops) · [Upwork](#)
 
